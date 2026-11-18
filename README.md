@@ -16,6 +16,7 @@ class Me:
     name = "Gulzhan Bauyrzhan"
     role = "AI/ML developer"
     base = "Almaty, Kazakhstan"
+    education = "KBTU, BSc, Automation & Control"
     into = "AI, LLMs, computer vision"
 ```
 
